@@ -1,0 +1,15 @@
+{
+  "name": "datamesh-ecommerce-sales",
+  "owner": "hariraghupathy@gmail.com",
+  "domain": "ecommerce",
+  "input": [
+    {
+      "name": "sales_data",
+      "type": "local",
+      "options": {
+        "file_path": "/Users/vrhk/Desktop/TDKTraining/sample-etl-customer-purchase/sales/tests/testresources/sample_data/input_data/sales_data.csv",
+        "file_format": "csv"
+      }
+    }
+  ]
+}
