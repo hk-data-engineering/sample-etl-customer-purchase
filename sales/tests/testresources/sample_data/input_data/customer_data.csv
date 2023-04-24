@@ -1,0 +1,11 @@
+customer_id,customer_name,email,age,gender,city,state,country
+101,John Doe,johndoe@gmail.com,25,Male,New York,NY,USA
+102,Jane Smith,janesmith@gmail.com,30,Female,San Francisco,CA,USA
+103,James Johnson,jamesjohnson@gmail.com,35,Male,Seattle,WA,USA
+104,Mary Brown,marybrown@gmail.com,28,Female,Chicago,IL,USA
+105,David Lee,davidlee@gmail.com,40,Male,Los Angeles,CA,USA
+106,Emily Davis,emilydavis@gmail.com,33,Female,Dallas,TX,USA
+107,William Wilson,williamwilson@gmail.com,27,Male,Houston,TX,USA
+108,Sarah Taylor,sarahtaylor@gmail.com,29,Female,Boston,MA,USA
+109,Michael Martin,michaelmartin@gmail.com,45,Male,Miami,FL,USA
+110,Lisa Anderson,lisaanderson@gmail.com,31,Female,Atlanta,GA,USA
